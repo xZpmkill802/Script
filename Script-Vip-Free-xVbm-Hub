@@ -1,0 +1,30 @@
+game:GetService("Players").localPlayer.HasVIP.Archivable = true
+game:GetService("Players").localPlayer.HasVIP.Value = true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
